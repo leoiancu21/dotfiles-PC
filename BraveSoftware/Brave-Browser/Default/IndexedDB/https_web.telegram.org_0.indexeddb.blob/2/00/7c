@@ -1,0 +1,21 @@
+1- La merce consegnata da un determinato automezzo in una determinata data 
+
+Query : 
+
+SELECT   Ordine.Id_Item 
+FROM     Ordine, Spedizone, Consegna
+WHERE    (Ordine.Id = Spedizone.Id_Ordine) AND 
+	 (Spedizone.Id = Consegna.Id_Spedizone) AND 
+	 (Consegna.data = "aaaa/mm/gg") AND
+	 (Consegna.Id_Camion = "Id camion");  
+
+
+2- Il numero medio  di consegne effettuate giornalmente, in un determinato intervallo temporale, da un automezzo fornito in ingresso
+ 
+Query :
+
+SELECT   AVG(Consegna.Id) AS Consegne_Medie 
+FROM 	 Consegna
+WHERE 	 (Consegna.data BETWEEN "aaaa/mm/gg" AND "aaaa/mm/gg") AND
+	 (Consegna.Id_Camion = "Id camion")
+GROUP BY Consegna.data;   

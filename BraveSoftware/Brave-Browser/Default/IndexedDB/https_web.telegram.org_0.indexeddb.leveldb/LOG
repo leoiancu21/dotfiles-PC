@@ -1,0 +1,15 @@
+2020/08/02-15:34:07.824 16d3f Reusing MANIFEST /home/paimon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/02-15:34:07.825 16d3f Recovering log #11
+2020/08/02-15:34:07.825 16d3f Reusing old log /home/paimon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/000011.log 
+2020/08/02-15:57:46.212 170f2 Level-0 table #16: started
+2020/08/02-15:57:46.237 170f2 Level-0 table #16: 141365 bytes OK
+2020/08/02-15:57:46.242 170f2 Delete type=0 #11
+2020/08/02-15:57:46.245 170f2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/02-15:57:46.250 170f2 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x03\x01,\x00I\x00s\x00t\x00r\x00u\x00z\x00i\x00o\x00n\x00i\x00 \x00o\x00p\x00e\x00r\x00a\x00t\x00i\x00v\x00e\x00_\x005\x008\x005\x002\x004\x003\x006\x007\x005\x002\x003\x007\x009\x001\x005\x002\x004\x002\x004\x00.\x00z\x00i\x00p' @ 117890 : 1
+2020/08/02-15:57:46.250 170f2 Compacting 1@1 + 1@2 files
+2020/08/02-15:57:46.273 170f2 Generated table #17@1: 504 keys, 27764 bytes
+2020/08/02-15:57:46.273 170f2 Compacted 1@1 + 1@2 files => 27764 bytes
+2020/08/02-15:57:46.278 170f2 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/02-15:57:46.279 170f2 Delete type=2 #13
+2020/08/02-15:57:46.279 170f2 Delete type=2 #16
+2020/08/02-15:57:46.279 170f2 Manual compaction at level-1 from '\x00\x02\x01\x03\x01,\x00I\x00s\x00t\x00r\x00u\x00z\x00i\x00o\x00n\x00i\x00 \x00o\x00p\x00e\x00r\x00a\x00t\x00i\x00v\x00e\x00_\x005\x008\x005\x002\x004\x003\x006\x007\x005\x002\x003\x007\x009\x001\x005\x002\x004\x002\x004\x00.\x00z\x00i\x00p' @ 117890 : 1 .. (end); will stop at (end)

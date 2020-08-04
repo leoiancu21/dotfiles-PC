@@ -1,0 +1,15 @@
+2020/08/02-18:21:18.002 7fc Reusing MANIFEST /home/paimon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/02-18:21:18.002 7fc Recovering log #4
+2020/08/02-18:21:18.019 7fc Reusing old log /home/paimon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2020/08/02-18:25:15.855 6a0 Level-0 table #8: started
+2020/08/02-18:25:15.881 6a0 Level-0 table #8: 1493561 bytes OK
+2020/08/02-18:25:15.887 6a0 Delete type=0 #4
+2020/08/02-18:25:15.888 6a0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/08/02-18:25:15.888 6a0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0e\x00\x00\x05' @ 143 : 1
+2020/08/02-18:25:15.888 6a0 Compacting 1@1 + 1@2 files
+2020/08/02-18:25:15.900 6a0 Generated table #9@1: 89 keys, 51163 bytes
+2020/08/02-18:25:15.900 6a0 Compacted 1@1 + 1@2 files => 51163 bytes
+2020/08/02-18:25:15.905 6a0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/02-18:25:15.905 6a0 Delete type=2 #8
+2020/08/02-18:25:15.905 6a0 Delete type=2 #5
+2020/08/02-18:25:15.906 6a0 Manual compaction at level-1 from '\x00\x0e\x00\x00\x05' @ 143 : 1 .. (end); will stop at (end)

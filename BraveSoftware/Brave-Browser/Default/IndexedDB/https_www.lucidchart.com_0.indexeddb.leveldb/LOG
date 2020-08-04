@@ -1,0 +1,5 @@
+2020/06/10-02:31:15.629 c11 Reusing MANIFEST /home/paimon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.lucidchart.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/10-02:31:19.730 ba0 Level-0 table #5: started
+2020/06/10-02:31:19.737 ba0 Level-0 table #5: 830 bytes OK
+2020/06/10-02:31:19.742 ba0 Delete type=0 #3
+2020/06/10-02:31:19.743 ba0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

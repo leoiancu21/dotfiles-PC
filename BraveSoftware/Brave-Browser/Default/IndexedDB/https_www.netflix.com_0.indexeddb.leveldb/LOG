@@ -1,0 +1,9 @@
+2020/08/02-13:18:20.314 1662d Reusing MANIFEST /home/paimon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/02-13:18:20.315 1662d Recovering log #7
+2020/08/02-13:18:20.319 1662d Reusing old log /home/paimon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000007.log 
+2020/08/02-13:18:38.338 167c4 Compacting 1@1 + 1@2 files
+2020/08/02-13:18:38.414 167c4 Generated table #10@1: 37 keys, 13698 bytes
+2020/08/02-13:18:38.415 167c4 Compacted 1@1 + 1@2 files => 13698 bytes
+2020/08/02-13:18:38.420 167c4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/08/02-13:18:38.421 167c4 Delete type=2 #8
+2020/08/02-13:18:38.421 167c4 Delete type=2 #5

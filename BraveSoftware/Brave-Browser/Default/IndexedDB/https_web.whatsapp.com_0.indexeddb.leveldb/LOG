@@ -1,0 +1,58 @@
+2020/06/22-01:34:57.577 92e8 Reusing MANIFEST /home/paimon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/22-01:34:57.577 92e8 Recovering log #6
+2020/06/22-01:34:57.643 92e8 Reusing old log /home/paimon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000006.log 
+2020/06/27-20:27:50.843 8f53 Level-0 table #11: started
+2020/06/27-20:27:50.981 8f53 Level-0 table #11: 1236160 bytes OK
+2020/06/27-20:27:50.989 8f53 Delete type=0 #6
+2020/06/27-20:27:52.374 8f53 Compacting 1@1 + 1@2 files
+2020/06/27-20:27:52.537 8f53 Generated table #12@1: 20813 keys, 911140 bytes
+2020/06/27-20:27:52.537 8f53 Compacted 1@1 + 1@2 files => 911140 bytes
+2020/06/27-20:27:52.542 8f53 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/27-20:27:52.543 8f53 Delete type=2 #8
+2020/06/27-20:27:52.543 8f53 Delete type=2 #11
+2020/06/27-20:41:44.750 8f53 Level-0 table #14: started
+2020/06/27-20:41:44.826 8f53 Level-0 table #14: 1374699 bytes OK
+2020/06/27-20:41:44.833 8f53 Delete type=0 #10
+2020/06/27-20:42:06.649 8f53 Compacting 1@1 + 1@2 files
+2020/06/27-20:42:06.710 8f53 Generated table #15@1: 26710 keys, 1212601 bytes
+2020/06/27-20:42:06.710 8f53 Compacted 1@1 + 1@2 files => 1212601 bytes
+2020/06/27-20:42:06.717 8f53 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/27-20:42:06.717 8f53 Delete type=2 #14
+2020/06/27-20:42:06.717 8f53 Delete type=2 #12
+2020/06/27-20:57:12.592 8f53 Level-0 table #17: started
+2020/06/27-20:57:12.643 8f53 Level-0 table #17: 1354244 bytes OK
+2020/06/27-20:57:12.653 8f53 Delete type=0 #13
+2020/06/27-20:57:25.351 8f53 Compacting 1@1 + 1@2 files
+2020/06/27-20:57:25.485 8f53 Generated table #18@1: 33724 keys, 1549703 bytes
+2020/06/27-20:57:25.485 8f53 Compacted 1@1 + 1@2 files => 1549703 bytes
+2020/06/27-20:57:25.491 8f53 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/27-20:57:25.491 8f53 Delete type=2 #17
+2020/06/27-20:57:25.491 8f53 Delete type=2 #15
+2020/06/27-21:14:24.210 8f53 Level-0 table #20: started
+2020/06/27-21:14:24.283 8f53 Level-0 table #20: 1378345 bytes OK
+2020/06/27-21:14:24.294 8f53 Delete type=0 #16
+2020/06/27-21:14:36.174 8f53 Compacting 1@1 + 1@2 files
+2020/06/27-21:14:36.363 8f53 Generated table #21@1: 39374 keys, 1830040 bytes
+2020/06/27-21:14:36.363 8f53 Compacted 1@1 + 1@2 files => 1830040 bytes
+2020/06/27-21:14:36.371 8f53 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/27-21:14:36.371 8f53 Delete type=2 #20
+2020/06/27-21:14:36.371 8f53 Delete type=2 #18
+2020/06/27-21:31:17.988 8f53 Level-0 table #23: started
+2020/06/27-21:31:18.047 8f53 Level-0 table #23: 1372327 bytes OK
+2020/06/27-21:31:18.058 8f53 Delete type=0 #19
+2020/06/27-21:31:26.377 8f53 Compacting 1@1 + 1@2 files
+2020/06/27-21:31:26.615 8f53 Generated table #24@1: 45182 keys, 2113354 bytes
+2020/06/27-21:31:26.615 8f53 Compacted 1@1 + 1@2 files => 2113354 bytes
+2020/06/27-21:31:26.620 8f53 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/27-21:31:26.620 8f53 Delete type=2 #23
+2020/06/27-21:31:26.620 8f53 Delete type=2 #21
+2020/06/27-21:45:50.479 8f53 Level-0 table #26: started
+2020/06/27-21:45:50.618 8f53 Level-0 table #26: 1388160 bytes OK
+2020/06/27-21:45:50.627 8f53 Delete type=0 #22
+2020/06/27-21:46:03.768 8f53 Compacting 1@1 + 1@2 files
+2020/06/27-21:46:03.940 8f53 Generated table #27@1: 50667 keys, 2257276 bytes
+2020/06/27-21:46:03.948 8f53 Generated table #28@1: 176 keys, 150202 bytes
+2020/06/27-21:46:03.948 8f53 Compacted 1@1 + 1@2 files => 2407478 bytes
+2020/06/27-21:46:03.956 8f53 compacted to: files[ 0 0 2 0 0 0 0 ]
+2020/06/27-21:46:03.956 8f53 Delete type=2 #24
+2020/06/27-21:46:03.956 8f53 Delete type=2 #26

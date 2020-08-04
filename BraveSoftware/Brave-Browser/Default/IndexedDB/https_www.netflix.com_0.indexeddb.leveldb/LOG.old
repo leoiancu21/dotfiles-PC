@@ -1,0 +1,6 @@
+2020/08/01-23:57:50.541 ae21 Reusing MANIFEST /home/paimon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/01-23:57:50.542 ae21 Recovering log #4
+2020/08/01-23:57:50.542 ae21 Reusing old log /home/paimon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000004.log 
+2020/08/02-00:46:29.171 71d6 Level-0 table #8: started
+2020/08/02-00:46:29.215 71d6 Level-0 table #8: 2274078 bytes OK
+2020/08/02-00:46:29.221 71d6 Delete type=0 #4

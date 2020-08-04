@@ -1,0 +1,20 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[MainWindow]
+Height 1080=1052
+State=AAAA/wAAAAD9AAAAAAAAA9AAAAGlAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=900
+Window-Maximized 1080x1920=true
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/mondo ottemperanza completo Diagram (1).png
+File2[$e]=$HOME/Downloads/Screenshot_2020-06-10-00_939x916.png
+File3[$e]=$HOME/Documents/CTF/Scroll.png
+Name1[$e]=mondo ottemperanza completo Diagram (1).png
+Name2[$e]=Screenshot_2020-06-10-00_939x916.png
+Name3[$e]=Scroll.png
+
+[SideBar]
+SideBarSplitterSizes=242,728

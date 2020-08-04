@@ -1,0 +1,13 @@
+2020/07/30-19:29:58.229 4ad Recovering log #37
+2020/07/30-19:29:58.230 4ad Level-0 table #39: started
+2020/07/30-19:29:58.235 4ad Level-0 table #39: 677 bytes OK
+2020/07/30-19:29:58.251 4ad Delete type=3 #35
+2020/07/30-19:29:58.251 4ad Delete type=0 #37
+2020/07/30-19:29:58.252 792 Compacting 4@0 + 0@1 files
+2020/07/30-19:29:58.258 792 Generated table #41@0: 1 keys, 446 bytes
+2020/07/30-19:29:58.258 792 Compacted 4@0 + 0@1 files => 446 bytes
+2020/07/30-19:29:58.268 792 compacted to: files[ 0 1 0 0 0 0 0 ]
+2020/07/30-19:29:58.271 792 Delete type=2 #39
+2020/07/30-19:29:58.271 792 Delete type=2 #33
+2020/07/30-19:29:58.271 792 Delete type=2 #36
+2020/07/30-19:29:58.271 792 Delete type=2 #30

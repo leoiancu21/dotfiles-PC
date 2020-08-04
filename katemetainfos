@@ -1,0 +1,35 @@
+[file:///home/paimon/dotfiles/bspwm/bspwmrc]
+Bookmarks=
+Checksum=46a6bdad463da22209b514ccc65b15a38dd77150
+Encoding=UTF-8
+Highlighting=Bash
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Bash
+Mode Set By User=false
+Time=2020,5,30,17,7,35
+URL=file:///home/paimon/dotfiles/bspwm/bspwmrc
+
+[file:///home/paimon/dotfiles/rofi/config.rasi]
+Bookmarks=
+Checksum=76302fe692d35892aadffb80f884ce1cd7a6fded
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,5,31,23,22,49
+URL=file:///home/paimon/dotfiles/rofi/config.rasi
+
+[file:///home/paimon/dotfiles/sxhkd/sxhkdrc]
+Bookmarks=
+Checksum=fe823843fe563c5456e9e31da1a1b33bebaf0956
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,5,30,17,7,35
+URL=file:///home/paimon/dotfiles/sxhkd/sxhkdrc

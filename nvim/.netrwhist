@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/paimon/.config/alacritty'
+let g:netrw_dirhist_4='/home/paimon/.config'
+let g:netrw_dirhist_3='/home/paimon'
+let g:netrw_dirhist_2='/home/paimon/Documents/Procedure-CYPSEC/Blocco-IOC'
+let g:netrw_dirhist_1='/home/paimon/Documents/Procedure-CYPSEC'
+let g:netrw_dirhist_0='/home/paimon/Documents'
+let g:netrw_dirhist_9='/home/paimon'
+let g:netrw_dirhist_8='/home/paimon/Documents/Procedure-CYPSEC/PSIM'
+let g:netrw_dirhist_7='/home/paimon/Documents/Procedure-CYPSEC'
+let g:netrw_dirhist_6='/home/paimon/Documents'

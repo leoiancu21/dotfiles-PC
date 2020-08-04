@@ -1,0 +1,24 @@
+2020/06/10-02:31:52.375 e0b Reusing MANIFEST /home/paimon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.lucidchart.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/06/10-02:31:52.376 e0b Recovering log #7
+2020/06/10-02:31:52.376 e0b Reusing old log /home/paimon/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_app.lucidchart.com_0.indexeddb.leveldb/000007.log 
+2020/06/10-02:32:54.019 ba0 Level-0 table #12: started
+2020/06/10-02:32:54.061 ba0 Level-0 table #12: 1613009 bytes OK
+2020/06/10-02:32:54.067 ba0 Delete type=0 #7
+2020/06/10-02:41:04.918 ba0 Compacting 1@1 + 1@2 files
+2020/06/10-02:41:05.036 ba0 Generated table #13@1: 295 keys, 384980 bytes
+2020/06/10-02:41:05.036 ba0 Compacted 1@1 + 1@2 files => 384980 bytes
+2020/06/10-02:41:05.045 ba0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/10-02:41:05.046 ba0 Delete type=2 #9
+2020/06/10-02:41:05.046 ba0 Delete type=2 #12
+2020/06/10-22:13:04.586 ba0 Level-0 table #15: started
+2020/06/10-22:13:04.623 ba0 Level-0 table #15: 70949 bytes OK
+2020/06/10-22:13:04.640 ba0 Delete type=0 #11
+2020/06/10-22:13:04.641 ba0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/06/10-22:13:04.641 ba0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0e\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1680 : 1
+2020/06/10-22:13:04.641 ba0 Compacting 1@1 + 1@2 files
+2020/06/10-22:13:04.689 ba0 Generated table #16@1: 309 keys, 349247 bytes
+2020/06/10-22:13:04.689 ba0 Compacted 1@1 + 1@2 files => 349247 bytes
+2020/06/10-22:13:04.695 ba0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/06/10-22:13:04.696 ba0 Delete type=2 #15
+2020/06/10-22:13:04.696 ba0 Delete type=2 #13
+2020/06/10-22:13:04.700 ba0 Manual compaction at level-1 from '\x00\x0e\x01\x02\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1680 : 1 .. (end); will stop at (end)
